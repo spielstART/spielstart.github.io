@@ -1,0 +1,3 @@
+[submodule "assets/lib/bootstrap/dist"]
+	path = assets/lib/bootstrap/dist
+	url = https://github.com/noxan/bootstrap-dist.git
